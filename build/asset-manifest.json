@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e90f41d.chunk.css",
+    "main.js": "/static/js/main.4d1775dc.chunk.js",
+    "main.js.map": "/static/js/main.4d1775dc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.71c5bbf3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.71c5bbf3.js.map",
+    "static/css/2.1695dd7a.chunk.css": "/static/css/2.1695dd7a.chunk.css",
+    "static/js/2.19d3658a.chunk.js": "/static/js/2.19d3658a.chunk.js",
+    "static/js/2.19d3658a.chunk.js.map": "/static/js/2.19d3658a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1695dd7a.chunk.css.map": "/static/css/2.1695dd7a.chunk.css.map",
+    "static/css/main.2e90f41d.chunk.css.map": "/static/css/main.2e90f41d.chunk.css.map",
+    "static/js/2.19d3658a.chunk.js.LICENSE.txt": "/static/js/2.19d3658a.chunk.js.LICENSE.txt",
+    "static/media/Achievements_heading_bg.fbc97893.png": "/static/media/Achievements_heading_bg.fbc97893.png",
+    "static/media/AcroFrontImg.4e28afd1.png": "/static/media/AcroFrontImg.4e28afd1.png",
+    "static/media/Acropolis_cllg_img.133759ff.png": "/static/media/Acropolis_cllg_img.133759ff.png",
+    "static/media/Eventcarouselimg.04ee6c44.jpeg": "/static/media/Eventcarouselimg.04ee6c44.jpeg",
+    "static/media/collegeAlumni.da97d250.png": "/static/media/collegeAlumni.da97d250.png",
+    "static/media/connectionIcon.d38f0f94.png": "/static/media/connectionIcon.d38f0f94.png",
+    "static/media/eventBanner.79b11ae5.png": "/static/media/eventBanner.79b11ae5.png",
+    "static/media/eventcard.87cb8aa9.png": "/static/media/eventcard.87cb8aa9.png",
+    "static/media/pgNotFound.dc167804.jpg": "/static/media/pgNotFound.dc167804.jpg",
+    "static/media/userProfileimg.315adaf6.png": "/static/media/userProfileimg.315adaf6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71c5bbf3.js",
+    "static/css/2.1695dd7a.chunk.css",
+    "static/js/2.19d3658a.chunk.js",
+    "static/css/main.2e90f41d.chunk.css",
+    "static/js/main.4d1775dc.chunk.js"
+  ]
+}
